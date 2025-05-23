@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.47394ab4.css",
+    "main.js": "/static/js/main.0d440ec5.js",
+    "static/media/ecommerce_soft.jpg": "/static/media/ecommerce_soft.2743da5410f8efff9a7b.jpg",
+    "static/media/edu_school_img.jpg": "/static/media/edu_school_img.60e0686ef08c7cc0cafb.jpg",
+    "static/media/billing_img.jpg": "/static/media/billing_img.8e06a593729b8291ed6a.jpg",
+    "static/media/team_meeting.jpg": "/static/media/team_meeting.c50cf64e1e5994da25c2.jpg",
+    "static/media/bts_logo.png": "/static/media/bts_logo.d3e3a4b786420b099034.png",
+    "index.html": "/index.html",
+    "main.47394ab4.css.map": "/static/css/main.47394ab4.css.map",
+    "main.0d440ec5.js.map": "/static/js/main.0d440ec5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47394ab4.css",
+    "static/js/main.0d440ec5.js"
+  ]
+}
