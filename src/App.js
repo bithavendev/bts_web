@@ -5,10 +5,10 @@ import HeroSection from './components/HeroSection';
 import ServicesSection from './components/ServicesSection';
 import AboutSection from './components/AboutSection';
 import PortfolioSection from './components/PortfolioSection';
-import TestimonialsSection from './components/TestimonialsSection';
 import ContactSection from './components/ContactSection';
 import Footer from './components/Footer';
-import { useForm } from "react-hook-form";
+//import { useForm } from "react-hook-form";
+//import TestimonialsSection from './components/TestimonialsSection';
 
 function App() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);

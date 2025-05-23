@@ -33,8 +33,8 @@ const AboutSection = () => {
                 <div key={index} className={`${index !== 0 ? 'mt-8' : ''} flex items-start`}>
                   <div className="flex-shrink-0">
                     <div className="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
-                      <FontAwesomeIcon icon={point.icon == "faBullseye" ? faBullseye : 
-                        (point.icon == "faEye" ? faEye : (point.icon == "faHandshake" ? faHandshake : ""))
+                      <FontAwesomeIcon icon={point.icon === "faBullseye" ? faBullseye : 
+                        (point.icon === "faEye" ? faEye : (point.icon === "faHandshake" ? faHandshake : ""))
                       } />
                     </div>
                   </div>
