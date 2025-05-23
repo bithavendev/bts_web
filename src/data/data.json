@@ -1,0 +1,210 @@
+{
+  "Header": {
+    "title": "Limitless Potential",
+    "paragraph": "Business budgeting tools enhance cost control, accuracy, and efficiency with tailored, customized software and services for businesses of all sizes."
+  },
+  "About": {
+    "orgUS": "At BitHaven Technology Solutions, we specialize in creating software solutions that empower businesses to transform their vision into reality.Whether you’re a startup looking to build from scratch or a company ready to scale, we’re here to make it happen.",
+    "aboutPoints": [
+      {
+        "icon": "faBullseye",
+        "title": "Our Mission",
+        "description": "To empower businesses through innovative technology solutions that drive efficiency, growth, and competitive advantage."
+      },
+      {
+        "icon": "faEye",
+        "title": "Our Vision",
+        "description": "To be the preferred technology partner for businesses seeking digital transformation across industries."
+      },
+      {
+        "icon": "faHandshake",
+        "title": "Our Approach",
+        "description": "We combine technical expertise with business acumen to deliver solutions that align with your strategic objectives."
+      }
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": [
+    {
+      "icon": "faMapMarkerAlt",
+      "title": "Our Office",
+      "details": [
+        "# 1834/26, 5th Cross Street, Kuberanager, Vengikkal Psot,",
+        "Thiruvannamalai Dt, Tamilnadu - 606604"
+      ],
+      "refLink": ""
+    },
+    {
+      "icon": "faEnvelope",
+      "title": "Email Us",
+      "details": [
+        "bithaventech@gmail.com"
+      ],
+      "refLink": "mailto:bithaventech@gmail.com"
+    },
+    {
+      "icon": "faPhoneAlt",
+      "title": "Call Us",
+      "details": [
+        "+91 9150003130"
+      ],
+      "refLink": "tel:+919150003130"
+    }
+  ],
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Custom Software Development",
+      "text": "From idea to execution, our custom solutions are built to fit your business perfectly, ensuring seamless integration and optimal performance."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Mobile & Web App Development",
+      "text": "User-friendly and reliable apps for web and mobile platforms that engage users and drive results."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Cloud Computing Services",
+      "text": "Cloud computing delivers computing resources—like storage, servers, databases, and networking—over the internet (\"IaaS , PaaS and SaaS\") instead of using local infrastructure."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Consulting & Strategy",
+      "text": "We help businesses plan, design, and execute their software strategy effectively. Guiding you with data-driven expertise at every stage."
+    }
+  ],
+  "orgName": "BitHaven Technology Solutions",
+  "orgNm": "BitHaven Technology"
+}
