@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faMapMarkerAlt, faEnvelope, faPhoneAlt } from '@fortawesome/free-solid-svg-icons';
+import { faMapMarkerAlt, faEnvelope, faPhoneAlt, faCrosshairs } from '@fortawesome/free-solid-svg-icons';
 import JsonData from "../data/data.json";
 import { useForm } from "react-hook-form";
 
@@ -71,6 +71,7 @@ const ContactSection = () => {
                       <FontAwesomeIcon icon={
                         info.icon === "faMapMarkerAlt" ? faMapMarkerAlt :
                         info.icon === "faEnvelope" ? faEnvelope : 
+                        info.icon === "faCrosshairs" ? faCrosshairs : 
                         info.icon === "faPhoneAlt" ? faPhoneAlt : null
                       } />
                     </div>

@@ -159,10 +159,18 @@
   "Contact": [
     {
       "icon": "faMapMarkerAlt",
-      "title": "Our Office",
+      "title": "Registered Office Address",
       "details": [
         "# 1834/26, 5th Cross Street, Kuberanager, Vengikkal Psot,",
         "Thiruvannamalai Dt, Tamilnadu - 606604"
+      ],
+      "refLink": ""
+    },
+    {
+      "icon": "faCrosshairs",
+      "title": "Office Location",
+      "details": [
+        "Royapuram, Chennai, Tamilnadu - 600013 "
       ],
       "refLink": ""
     },
