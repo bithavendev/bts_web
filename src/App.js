@@ -45,7 +45,7 @@ function App() {
           "@type": "Organization",
           "name": "BitHaven Technology",
           "url": "https://bithaventechnology.com",
-          "logo": "https://bithaventechnology.com/logo.png"
+          "logo": "https://bithaventechnology.com/bts_logo.png"
         })}
       </script>
     </Helmet><div className="font-sans antialiased text-gray-800">
