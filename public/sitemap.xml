@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://bithaventechnology.com/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://bithaventechnology.com/services</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://bithaventechnology.com/projects</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://bithaventechnology.com/custom-web-mobile-apps</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://bithaventechnology.com/billing-software</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://bithaventechnology.com/school-management-app</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://bithaventechnology.com/cloud-based-solutions</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://bithaventechnology.com/industry-software</loc>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
